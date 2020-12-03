@@ -1,6 +1,3 @@
-//Katindig, Gaele
-//CS211 21B
-//Assignment 8: Fancy 8 Queens
 #include <iostream>
 #include <cstdlib>
 using namespace std;
